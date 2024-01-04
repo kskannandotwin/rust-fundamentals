@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let mut my_name  = "Luis";
+    my_name = "John";
 }
